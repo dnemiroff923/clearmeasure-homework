@@ -1,0 +1,10 @@
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\bin\Debug\ClearMeasureHomework.exe.config
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\bin\Debug\ClearMeasureHomework.exe
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\bin\Debug\ClearMeasureHomework.pdb
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\bin\Debug\FizzBuzz.dll
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\bin\Debug\NotFizzBuzz.dll
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\bin\Debug\FizzBuzz.pdb
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\bin\Debug\NotFizzBuzz.pdb
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\obj\Debug\ClearMeasureHomework.csprojResolveAssemblyReference.cache
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\obj\Debug\ClearMeasureHomework.exe
+C:\Users\Danielle\Desktop\ClearMeasureHomework\ClearMeasureHomework\obj\Debug\ClearMeasureHomework.pdb
